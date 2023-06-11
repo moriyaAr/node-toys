@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "631ed0da42de4b7a75398c93"
+  },
+  "name": "phalaphel baribua",
+  "cat": "fun",
+  "info": "bjef0 iorg nigr jigwe hiowg",
+  "img_url": "vfdi.jpg",
+  "price": 100,
+  "date_created":"2023-05-23T08:58:46.604+00:00",
+  "user_id": {
+    "$oid": "631eddwaefdsb7a75398c93"
+  }
+},{
+  "_id": {
+    "$oid": "631ed0refsd2de4b7a75398c93"
+  },
+  "name": "mancala",
+  "cat": "logic",
+  "info": "bjef0 iorg nigr jigwe hiowg",
+  "img_url": "vfdi.jpg",
+  "price": 100,
+  "date_created":"2023-05-23T08:58:46.604+00:00",
+  "user_id": {
+    "$oid": "631ep0ihtge7a75398c93"
+  }
+},{
+  "_id": {
+    "$oid": "631ed0da42de8743hf8c93"
+  },
+  "name": "bluuu",
+  "cat": "logic",
+  "info": "bjef0 iorg nigr jigwe hiowg",
+  "img_url": "vfdi.jpg",
+  "price": 100,
+  "date_created":"2023-05-23T08:58:46.604+00:00",
+  "user_id": {
+    "$oid": "631eddwabgfoi43jec93"
+  }
+}]
